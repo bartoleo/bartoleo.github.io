@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "bartoleo",
-    "repositoryName": "bartoleo.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"bartoleo","repositoryName":"bartoleo.github.io","branch":"master"},"site":{"title":"Bartoleo Hubpress Blog","description":"Bartoleo Hubpress Blog","url":"https://bartoleo.github.io"},"socialnetwork":{"email":"bartololeo74@gmail.com","twitter":"bartoleo74"},"theme":{"name":"Casper","url":"//bartoleo.github.io/themes/Casper"}}
