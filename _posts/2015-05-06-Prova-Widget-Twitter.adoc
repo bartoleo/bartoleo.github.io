@@ -1,5 +1,5 @@
 = Prova Widget Twitter
 
-Prova del widget Twitter
+Prova del widget Twitter per filtrare #grailsfw e #groovylang
 
-+++inizio <a class="twitter-timeline" href="https://twitter.com/search?q=%23grailsfw%20%23groovylang" data-widget-id="677808161437429760">Tweet riguardo #grailsfw #groovylang</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>fine+++
++++<a class="twitter-timeline" href="https://twitter.com/search?q=%23grailsfw%20%23groovylang" data-widget-id="677808161437429760">Tweet riguardo #grailsfw #groovylang</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>+++
