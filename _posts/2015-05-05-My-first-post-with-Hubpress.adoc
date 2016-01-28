@@ -1,4 +1,6 @@
 = My first post with Hubpress
 :hp-tags: HubPress, Blog, Open Source
 
-prova
+Provo Hubpress, la cosa più brutta è non avere nulla da scrivere
+
+Comunque funziona
